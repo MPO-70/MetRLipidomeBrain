@@ -1,0 +1,27 @@
+Meaning,Class,ID,p-value
+aging,FA,12-hydroxyheptadecanoic acidb,0.034
+aging,GL,TG(50:0)b,0.047
+aging,GL,TG(48:1)b,0.002
+aging,GL,TG(54:6)b,0.006
+aging,GL,TG(50:1)b,0.025
+aging,GL,TG(64:14)b,0.03
+MetR,GL,TG(64:14)a,0.036
+healthy aging,GL,TG-O(60:9)b,0.003
+healthy aging,GL,TG(62:12)b,0.032
+aging,GP,PE(44:7)/PE-NMe2(42:7)/PS(42:6)b,0.003
+aging,GP,PG(36:1)b,0.018
+aging,GP,PE-P(38:6)a,0.041
+MetR,GP,PE-NMe(34:3)/ PE(35:4)/PC(32:3)b,0.002
+MetR,GP,PE-NMe(34:3)/PC(32:3)b,0.007
+MetR,GP,PA(44:7)a,0.027
+MetR,GP,PS(38:3)b,0.028
+MetR,GP,PE-P(40:7)a,0.045
+MetR,GP,PC(34:2)a,0.05
+healthy aging,GP,PA(40:6)a,0.044
+aging,PL,Dolichol-20d,0.049
+MetR,SP,LacCer(34:2)/GalCer(44:2)b,0.004
+MetR,SP,Cer(36:1)b,0.017
+MetR,SP,"N-(2R-Hydroxyhexadecanoyl)-2S-amino-9-methyl-4E,8E-octadecadiene-1,3R-diolb",0.024
+MetR,SP,Cer(34:1)c,0.033
+aging,SL,CE(20:4)b,0.034
+MetR,SL,CE(5:0)b,0.037

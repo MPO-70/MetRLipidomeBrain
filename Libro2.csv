@@ -1,0 +1,22 @@
+Meaning,Class,ID,p-value
+healthy aging,FA,9-Hydroxytridecyl docosanoated,0.024
+aging,GL,TG-O(54:1)b,0.002
+aging,GL,TG-O(60:1)b,0.02
+MetR,GL,TG-O(47:0)b,0.037
+healthy aging,GL,TG-O(56:1)b,0.046
+aging,GP,CDP-DG(28:0)a,0.0001
+aging,GP,PGP(38:5)b,0.009
+aging,GP,PE-P(40:0)a,0.022
+aging,GP,PA(44:7)a,0.032
+aging,GP,PE-Nme(36:6)a,0.036
+aging,GP,PC-O(38:4)/PC-P(38:3)b,0.043
+MetR,GP,PE-Nme(34:3)/PE-NMe2(33:3)/PC(32:3)/PE(35:3)b,0.021
+MetR,GP,PE-P(xx),0.041
+healthy aging,GP,PS(40:4)a,0.041
+aging,SP,Cer(38:4)b,0.01
+aging,SP,SM(33:1)b,0.02
+aging,SP,Ganglioside GA2 (44:1)b,0.04
+aging,SP,"N-(2R-Hydroxyhexadecanoyl)-2S-amino-9-methyl-4E,8E-octadecadiene-1,3R-diolb",0.043
+aging,SL,CE(22:4)b,0.042
+MetR,SL,"cholest-5-en-3b-yl (11Z,14Z-eicosadienoate)c",0.045
+healthy aging,SL,CE(xx) ,0.037
